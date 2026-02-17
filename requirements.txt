@@ -1,0 +1,3 @@
+# No external libraries required
+
+(Only Python built-in re module used.)
